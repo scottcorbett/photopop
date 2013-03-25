@@ -1,0 +1,17 @@
+{
+  "name": "photopop",
+  "repo": "scottcorbett/photopop",
+  "description": "image editing library",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "scottcorbett/histogram": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js", "src/PhotoPop.js", 
+    "src/modifier/Scale.js", "src/modifier/Crop.js", 
+    "src/modifier/Rotate.js", "src/modifier/Pixel.js"
+  ]
+}

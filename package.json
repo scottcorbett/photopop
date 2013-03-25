@@ -1,0 +1,25 @@
+{
+  "name": "photopop",
+  "version": "0.0.1",
+  "description": "javascript photo editor",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt-jsdoc": "~0.2.4",
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "~0.2.0",
+    "grunt-contrib-jshint": "~0.3.0",
+    "grunt-jasmine-runner": "~0.6.0",
+    "grunt-contrib-jasmine": "~0.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottcorbett/photopop.git"
+  },
+  "author": "scottcorbett",
+  "license": "MIT",
+  "readmeFilename": "Readme.md"
+}
