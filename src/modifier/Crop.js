@@ -17,7 +17,7 @@ function Crop(){
 
 /**
 Sets the default fields for cropping (cropX, cropY, cropWidth and cropHeight) to 0.
-@param {object} object to set values on
+@param {object} conf object to set values on
 */
 Crop.prototype.setDefaultConf = function(conf){
 	conf.cropX = 0;
